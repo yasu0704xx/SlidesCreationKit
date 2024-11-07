@@ -1,0 +1,51 @@
+---
+title: 'TITLE'
+subtitle: 'Subtitle'
+author: 'Yasuyuki Matsumura'
+date: '`r format(Sys.time(), format = "%Y-%m-%d")`'
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    nature:
+      highlightStyle: github
+      highlightLines: yes
+      countIncrementalSlides: no
+      ratio: '32:23'
+fig_width: 6
+fig_height: 4
+
+---
+class: title-slide-section, center, middle
+name: logistics
+# Introduction
+
+
+---
+class: title-slide-section, center, middle
+name: logistics
+# References
+
+---
+## References
+
++ Enders, W. (2014) *Applied Econometric Time Series,* Wiley.（新谷元嗣・藪友良訳（2019）『実証のための計量時系列分析』有斐閣．）
+
++ Hansen, B. E. (2022) *Econometrics,* Princeton University Press.
+
++ Wooldridge, J. M. (2020) *Introductory Econometrics: A Modern Approach,* Cengage.
+
++ 田中勝人（2020）『時系列解析（理論統計学教程：従属性の統計理論）』共立出版．
+
++ 西山慶彦・新谷元嗣・川口大司・奥井亮（2019）『計量経済学』有斐閣．
+
+
+
+
+
+
+
+
+
+
+
+
